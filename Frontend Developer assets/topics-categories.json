@@ -1,0 +1,1474 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "شجرة الفقه الحنبلي",
+      "created_at": "2018-03-06T23:30:31.718+03:00",
+      "updated_at": "2018-12-16T17:06:30.687+03:00",
+      "ancestry": null,
+      "topic_references_count": 0,
+      "position": 0,
+      "depth": 0,
+      "children": [
+        {
+          "id": 2,
+          "name": "الطهارة",
+          "created_at": "2018-03-06T23:30:31.823+03:00",
+          "updated_at": "2018-12-16T17:04:59.361+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 0,
+          "depth": 1,
+          "children": [
+            {
+              "id": 3,
+              "name": "مدخل للطهارة",
+              "created_at": "2018-03-06T23:30:31.888+03:00",
+              "updated_at": "2018-12-16T17:04:43.417+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 10,
+              "name": "المياه",
+              "created_at": "2018-03-06T23:30:32.489+03:00",
+              "updated_at": "2018-12-16T17:04:44.199+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 67,
+              "name": "الآنية",
+              "created_at": "2018-03-06T23:30:37.648+03:00",
+              "updated_at": "2018-12-16T17:04:44.706+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 107,
+              "name": "الاستنجاء",
+              "created_at": "2018-03-06T23:30:41.125+03:00",
+              "updated_at": "2018-12-16T17:04:44.955+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 127,
+              "name": "السواك والزينة وسنن الفطرة",
+              "created_at": "2018-03-06T23:30:42.857+03:00",
+              "updated_at": "2018-12-16T17:04:45.313+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 157,
+              "name": "الوضوء",
+              "created_at": "2018-03-06T23:30:45.609+03:00",
+              "updated_at": "2018-12-16T17:04:47.178+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 288,
+              "name": "المسح على الخفين والحوائل",
+              "created_at": "2018-03-06T23:30:57.860+03:00",
+              "updated_at": "2018-12-16T17:04:48.909+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 365,
+              "name": "نواقض الوضوء",
+              "created_at": "2018-03-06T23:31:04.597+03:00",
+              "updated_at": "2018-12-16T17:04:50.849+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 7,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 499,
+              "name": "الغُسل",
+              "created_at": "2018-03-06T23:31:16.934+03:00",
+              "updated_at": "2018-12-16T17:04:52.870+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 8,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 632,
+              "name": "التيمم",
+              "created_at": "2018-03-06T23:31:28.935+03:00",
+              "updated_at": "2018-12-16T17:04:55.309+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 9,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 785,
+              "name": "إزالة النجاسة الحكمية",
+              "created_at": "2018-03-06T23:31:42.310+03:00",
+              "updated_at": "2018-12-16T17:04:56.597+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 10,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 850,
+              "name": "الدماء الطبيعية",
+              "created_at": "2018-03-06T23:31:47.973+03:00",
+              "updated_at": "2018-12-16T17:04:59.362+03:00",
+              "ancestry": "1/2",
+              "topic_references_count": 0,
+              "position": 11,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 1030,
+          "name": "الصلاة",
+          "created_at": "2018-03-06T23:32:04.435+03:00",
+          "updated_at": "2018-12-16T17:05:15.378+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 1,
+          "depth": 1,
+          "children": [
+            {
+              "id": 1031,
+              "name": "مدخل للصلاة",
+              "created_at": "2018-03-06T23:32:04.497+03:00",
+              "updated_at": "2018-12-16T17:04:59.418+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1035,
+              "name": "حكم الصلاة",
+              "created_at": "2018-03-06T23:32:04.779+03:00",
+              "updated_at": "2018-12-16T17:04:59.420+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1036,
+              "name": "شروط وجوب الصلاة",
+              "created_at": "2018-03-06T23:32:04.878+03:00",
+              "updated_at": "2018-12-16T17:04:59.665+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1054,
+              "name": "تأخير الصلاة",
+              "created_at": "2018-03-06T23:32:06.347+03:00",
+              "updated_at": "2018-12-16T17:04:59.768+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1061,
+              "name": "جحد وجوب الصلاة",
+              "created_at": "2018-03-06T23:32:06.885+03:00",
+              "updated_at": "2018-12-16T17:04:59.801+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1064,
+              "name": "ترك الصلاة",
+              "created_at": "2018-03-06T23:32:07.177+03:00",
+              "updated_at": "2018-12-16T17:04:59.881+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1071,
+              "name": "الأذان",
+              "created_at": "2018-03-06T23:32:07.808+03:00",
+              "updated_at": "2018-12-16T17:05:00.734+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1140,
+              "name": "شروط الصلاة",
+              "created_at": "2018-03-06T23:32:14.069+03:00",
+              "updated_at": "2018-12-16T17:05:04.103+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 7,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1349,
+              "name": "صفة الصلاة",
+              "created_at": "2018-03-06T23:32:33.150+03:00",
+              "updated_at": "2018-12-16T17:05:06.919+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 8,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1543,
+              "name": "سجود السهو",
+              "created_at": "2018-03-06T23:32:51.508+03:00",
+              "updated_at": "2018-12-16T17:05:08.124+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 9,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1627,
+              "name": "Level 1",
+              "created_at": "2018-03-06T23:32:58.875+03:00",
+              "updated_at": "2018-12-16T17:05:08.196+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 10,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1632,
+              "name": "صلاة التطوع وأوقات النهي",
+              "created_at": "2018-03-06T23:32:59.202+03:00",
+              "updated_at": "2018-12-16T17:05:09.554+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 11,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1729,
+              "name": "صلاة الجماعة",
+              "created_at": "2018-03-06T23:33:07.478+03:00",
+              "updated_at": "2018-12-16T17:05:11.353+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 12,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1865,
+              "name": "صلاة أهل الأعذار",
+              "created_at": "2018-03-06T23:33:19.445+03:00",
+              "updated_at": "2018-12-16T17:05:12.258+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 13,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 1931,
+              "name": "صلاة الجمعة",
+              "created_at": "2018-03-06T23:33:25.604+03:00",
+              "updated_at": "2018-12-16T17:05:13.656+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 14,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2020,
+              "name": "صلاة العيدين",
+              "created_at": "2018-03-06T23:33:34.655+03:00",
+              "updated_at": "2018-12-16T17:05:14.421+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 15,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2063,
+              "name": "صلاة الكسوف",
+              "created_at": "2018-03-06T23:33:38.391+03:00",
+              "updated_at": "2018-12-16T17:05:14.790+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 16,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2086,
+              "name": "صلاة الإستسقاء",
+              "created_at": "2018-03-06T23:33:40.450+03:00",
+              "updated_at": "2018-12-16T17:05:15.379+03:00",
+              "ancestry": "1/1030",
+              "topic_references_count": 0,
+              "position": 17,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 2120,
+          "name": "العبادات",
+          "created_at": "2018-03-06T23:33:43.573+03:00",
+          "updated_at": "2018-12-16T17:05:35.673+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 2,
+          "depth": 1,
+          "children": [
+            {
+              "id": 2121,
+              "name": "الجنائز",
+              "created_at": "2018-03-06T23:33:43.647+03:00",
+              "updated_at": "2018-12-16T17:05:17.457+03:00",
+              "ancestry": "1/2120",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2267,
+              "name": "الزكاة",
+              "created_at": "2018-03-06T23:33:57.056+03:00",
+              "updated_at": "2018-12-16T17:05:21.860+03:00",
+              "ancestry": "1/2120",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2563,
+              "name": "الصيام",
+              "created_at": "2018-03-06T23:34:24.737+03:00",
+              "updated_at": "2018-12-16T17:05:25.251+03:00",
+              "ancestry": "1/2120",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 2786,
+              "name": "المناسك",
+              "created_at": "2018-03-06T23:34:45.445+03:00",
+              "updated_at": "2018-12-16T17:05:34.138+03:00",
+              "ancestry": "1/2120",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 3341,
+              "name": "الجهاد",
+              "created_at": "2018-03-06T23:35:37.550+03:00",
+              "updated_at": "2018-12-16T17:05:35.674+03:00",
+              "ancestry": "1/2120",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 3443,
+          "name": "المعاملات",
+          "created_at": "2018-03-06T23:35:46.488+03:00",
+          "updated_at": "2018-12-16T17:06:03.113+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 3,
+          "depth": 1,
+          "children": [
+            {
+              "id": 3444,
+              "name": "البيع",
+              "created_at": "2018-03-06T23:35:46.554+03:00",
+              "updated_at": "2018-12-16T17:05:41.770+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 3813,
+              "name": "الربا والصرف",
+              "created_at": "2018-03-06T23:36:21.608+03:00",
+              "updated_at": "2018-12-16T17:05:42.519+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 3861,
+              "name": "القرض",
+              "created_at": "2018-03-06T23:36:26.116+03:00",
+              "updated_at": "2018-12-16T17:05:43.018+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 3896,
+              "name": "الرهن",
+              "created_at": "2018-03-06T23:36:29.080+03:00",
+              "updated_at": "2018-12-16T17:05:44.250+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 3982,
+              "name": "الضمان",
+              "created_at": "2018-03-06T23:36:37.044+03:00",
+              "updated_at": "2018-12-16T17:05:44.550+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4004,
+              "name": "الكفالة",
+              "created_at": "2018-03-06T23:36:38.870+03:00",
+              "updated_at": "2018-12-16T17:05:44.744+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4020,
+              "name": "الشركة",
+              "created_at": "2018-03-06T23:36:40.342+03:00",
+              "updated_at": "2018-12-16T17:05:45.949+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4092,
+              "name": "المساقاة والمزارعة",
+              "created_at": "2018-03-06T23:36:47.788+03:00",
+              "updated_at": "2018-12-16T17:05:46.253+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 7,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4116,
+              "name": "الإجارة",
+              "created_at": "2018-03-06T23:36:50.335+03:00",
+              "updated_at": "2018-12-16T17:05:47.317+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 8,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4191,
+              "name": "السبق",
+              "created_at": "2018-03-06T23:36:57.026+03:00",
+              "updated_at": "2018-12-16T17:05:47.584+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 9,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4210,
+              "name": "العارية",
+              "created_at": "2018-03-06T23:36:58.609+03:00",
+              "updated_at": "2018-12-16T17:05:48.094+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 10,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4243,
+              "name": "الغصب",
+              "created_at": "2018-03-06T23:37:01.592+03:00",
+              "updated_at": "2018-12-16T17:05:49.395+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 11,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4319,
+              "name": "الشفعة",
+              "created_at": "2018-03-06T23:37:08.151+03:00",
+              "updated_at": "2018-12-16T17:05:50.726+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 12,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4376,
+              "name": "الوديعة",
+              "created_at": "2018-03-06T23:37:13.133+03:00",
+              "updated_at": "2018-12-16T17:05:51.137+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 13,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4407,
+              "name": "إحياء الموات",
+              "created_at": "2018-03-06T23:37:15.996+03:00",
+              "updated_at": "2018-12-16T17:05:51.439+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 14,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4430,
+              "name": "الجعالة",
+              "created_at": "2018-03-06T23:37:19.662+03:00",
+              "updated_at": "2018-12-16T17:05:51.810+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 15,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4458,
+              "name": "اللقطة",
+              "created_at": "2018-03-06T23:37:24.350+03:00",
+              "updated_at": "2018-12-16T17:05:52.187+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 16,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4486,
+              "name": "الهبة والعطية",
+              "created_at": "2018-03-06T23:37:27.588+03:00",
+              "updated_at": "2018-12-16T17:05:53.082+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 17,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4548,
+              "name": "الوقف",
+              "created_at": "2018-03-06T23:37:32.980+03:00",
+              "updated_at": "2018-12-16T17:05:53.918+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 18,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4608,
+              "name": "الوصايا",
+              "created_at": "2018-03-06T23:37:38.155+03:00",
+              "updated_at": "2018-12-16T17:05:55.076+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 19,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4686,
+              "name": "الفرائض",
+              "created_at": "2018-03-06T23:37:45.140+03:00",
+              "updated_at": "2018-12-16T17:05:58.834+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 20,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4879,
+              "name": "العتق",
+              "created_at": "2018-03-06T23:38:03.021+03:00",
+              "updated_at": "2018-12-16T17:05:59.296+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 21,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4913,
+              "name": "الحجر",
+              "created_at": "2018-03-06T23:38:05.916+03:00",
+              "updated_at": "2018-12-16T17:06:00.305+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 22,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 4979,
+              "name": "الحوالة",
+              "created_at": "2018-03-06T23:38:12.067+03:00",
+              "updated_at": "2018-12-16T17:06:00.694+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 23,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5004,
+              "name": "الصلح",
+              "created_at": "2018-03-06T23:38:14.207+03:00",
+              "updated_at": "2018-12-16T17:06:01.723+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 24,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5063,
+              "name": "اللقيط",
+              "created_at": "2018-03-06T23:38:19.757+03:00",
+              "updated_at": "2018-12-16T17:06:02.165+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 25,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5089,
+              "name": "الوكالة",
+              "created_at": "2018-03-06T23:38:21.930+03:00",
+              "updated_at": "2018-12-16T17:06:03.115+03:00",
+              "ancestry": "1/3443",
+              "topic_references_count": 0,
+              "position": 26,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 5147,
+          "name": "الأسرة",
+          "created_at": "2018-03-06T23:38:27.006+03:00",
+          "updated_at": "2018-12-16T17:06:17.794+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 4,
+          "depth": 1,
+          "children": [
+            {
+              "id": 5148,
+              "name": "كتاب النكاح",
+              "created_at": "2018-03-06T23:38:27.070+03:00",
+              "updated_at": "2018-12-16T17:06:09.476+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5555,
+              "name": "كتاب الطلاق",
+              "created_at": "2018-03-06T23:39:04.475+03:00",
+              "updated_at": "2018-12-16T17:06:12.630+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5767,
+              "name": "الإيلاء",
+              "created_at": "2018-03-06T23:39:24.162+03:00",
+              "updated_at": "2018-12-16T17:06:12.914+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5785,
+              "name": "الظهار",
+              "created_at": "2018-03-06T23:39:25.710+03:00",
+              "updated_at": "2018-12-16T17:06:13.666+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5830,
+              "name": "اللعان",
+              "created_at": "2018-03-06T23:39:29.918+03:00",
+              "updated_at": "2018-12-16T17:06:14.153+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5861,
+              "name": "العدد",
+              "created_at": "2018-03-06T23:39:32.577+03:00",
+              "updated_at": "2018-12-16T17:06:15.607+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5938,
+              "name": "الرضاع",
+              "created_at": "2018-03-06T23:39:39.442+03:00",
+              "updated_at": "2018-12-16T17:06:15.988+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 5960,
+              "name": "النفقات",
+              "created_at": "2018-03-06T23:39:41.360+03:00",
+              "updated_at": "2018-12-16T17:06:17.795+03:00",
+              "ancestry": "1/5147",
+              "topic_references_count": 0,
+              "position": 7,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 6067,
+          "name": "الجنايات والحدود والقضاء",
+          "created_at": "2018-03-06T23:39:50.944+03:00",
+          "updated_at": "2018-12-16T17:06:30.689+03:00",
+          "ancestry": "1",
+          "topic_references_count": 0,
+          "position": 5,
+          "depth": 1,
+          "children": [
+            {
+              "id": 6068,
+              "name": "الجنايات",
+              "created_at": "2018-03-06T23:39:51.036+03:00",
+              "updated_at": "2018-12-16T17:06:19.708+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6184,
+              "name": "الديات",
+              "created_at": "2018-03-06T23:40:01.498+03:00",
+              "updated_at": "2018-12-16T17:06:21.361+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6289,
+              "name": "الحدود",
+              "created_at": "2018-03-06T23:40:11.335+03:00",
+              "updated_at": "2018-12-16T17:06:24.086+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6446,
+              "name": "الأطعمة",
+              "created_at": "2018-03-06T23:40:26.264+03:00",
+              "updated_at": "2018-12-16T17:06:25.274+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6521,
+              "name": "الأيمان",
+              "created_at": "2018-03-06T23:40:33.023+03:00",
+              "updated_at": "2018-12-16T17:06:26.519+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6597,
+              "name": "القضاء",
+              "created_at": "2018-03-06T23:40:40.315+03:00",
+              "updated_at": "2018-12-16T17:06:28.596+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6727,
+              "name": "الشهادات",
+              "created_at": "2018-03-06T23:40:52.927+03:00",
+              "updated_at": "2018-12-16T17:06:29.866+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6805,
+              "name": "الإقرار",
+              "created_at": "2018-03-06T23:41:02.215+03:00",
+              "updated_at": "2018-12-16T17:06:30.690+03:00",
+              "ancestry": "1/6067",
+              "topic_references_count": 0,
+              "position": 7,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6858,
+      "name": "شجرة أصول الفقه",
+      "created_at": "2018-03-06T23:41:08.023+03:00",
+      "updated_at": "2018-12-16T17:06:39.613+03:00",
+      "ancestry": null,
+      "topic_references_count": 0,
+      "position": 1,
+      "depth": 0,
+      "children": [
+        {
+          "id": 6859,
+          "name": "المقدمات",
+          "created_at": "2018-03-06T23:41:08.107+03:00",
+          "updated_at": "2018-12-16T17:06:30.885+03:00",
+          "ancestry": "6858",
+          "topic_references_count": 0,
+          "position": 0,
+          "depth": 1,
+          "children": [
+            {
+              "id": 6860,
+              "name": "مدخل",
+              "created_at": "2018-03-06T23:41:08.218+03:00",
+              "updated_at": "2018-12-16T17:06:30.844+03:00",
+              "ancestry": "6858/6859",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6871,
+              "name": "أول من صنف في علم أصول الفقه",
+              "created_at": "2018-03-06T23:41:09.219+03:00",
+              "updated_at": "2018-12-16T17:06:30.845+03:00",
+              "ancestry": "6858/6859",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6872,
+              "name": "بيان شرف علم أصول الفقه",
+              "created_at": "2018-03-06T23:41:09.305+03:00",
+              "updated_at": "2018-12-16T17:06:30.855+03:00",
+              "ancestry": "6858/6859",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6873,
+              "name": "موضوع علم أصول الفقه والغرض منه",
+              "created_at": "2018-03-06T23:41:09.401+03:00",
+              "updated_at": "2018-12-16T17:06:30.866+03:00",
+              "ancestry": "6858/6859",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6874,
+              "name": "استمداد علم أصول الفقه",
+              "created_at": "2018-03-06T23:41:09.474+03:00",
+              "updated_at": "2018-12-16T17:06:30.876+03:00",
+              "ancestry": "6858/6859",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 6875,
+          "name": "المقدمة المنطقية",
+          "created_at": "2018-03-06T23:41:09.583+03:00",
+          "updated_at": "2018-12-16T17:06:30.886+03:00",
+          "ancestry": "6858",
+          "topic_references_count": 0,
+          "position": 1,
+          "depth": 1,
+          "children": []
+        },
+        {
+          "id": 6876,
+          "name": "الحكم الشرعي",
+          "created_at": "2018-03-06T23:41:09.690+03:00",
+          "updated_at": "2018-12-16T17:06:34.018+03:00",
+          "ancestry": "6858",
+          "topic_references_count": 0,
+          "position": 2,
+          "depth": 1,
+          "children": [
+            {
+              "id": 6877,
+              "name": "مقدمات",
+              "created_at": "2018-03-06T23:41:09.759+03:00",
+              "updated_at": "2018-12-16T17:06:31.116+03:00",
+              "ancestry": "6858/6876",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 6893,
+              "name": "قسمي الحكم الشرعي",
+              "created_at": "2018-03-06T23:41:11.284+03:00",
+              "updated_at": "2018-12-16T17:06:33.478+03:00",
+              "ancestry": "6858/6876",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 7040,
+              "name": "التكليف",
+              "created_at": "2018-03-06T23:41:25.250+03:00",
+              "updated_at": "2018-12-16T17:06:34.019+03:00",
+              "ancestry": "6858/6876",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 7073,
+          "name": "أدلة الأحكام",
+          "created_at": "2018-03-06T23:41:28.158+03:00",
+          "updated_at": "2018-12-16T17:06:39.614+03:00",
+          "ancestry": "6858",
+          "topic_references_count": 0,
+          "position": 3,
+          "depth": 1,
+          "children": [
+            {
+              "id": 7074,
+              "name": "الأدلة المتفق عليها",
+              "created_at": "2018-03-06T23:41:28.254+03:00",
+              "updated_at": "2018-12-16T17:06:39.053+03:00",
+              "ancestry": "6858/7073",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 7379,
+              "name": "الأدلة المختلف فيها",
+              "created_at": "2018-03-06T23:41:56.476+03:00",
+              "updated_at": "2018-12-16T17:06:39.615+03:00",
+              "ancestry": "6858/7073",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8269,
+      "name": "شجرة مصطلح الحديث",
+      "created_at": "2018-09-04T13:12:18.150+03:00",
+      "updated_at": "2018-12-16T17:06:54.534+03:00",
+      "ancestry": null,
+      "topic_references_count": 0,
+      "position": 2,
+      "depth": 0,
+      "children": [
+        {
+          "id": 8270,
+          "name": "المقدمات",
+          "created_at": "2018-09-04T13:12:18.205+03:00",
+          "updated_at": "2018-12-16T17:06:39.885+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 0,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8271,
+              "name": "تعريف علم الحديث",
+              "created_at": "2018-09-04T13:12:18.234+03:00",
+              "updated_at": "2018-12-16T17:06:39.672+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8274,
+              "name": "موضوع علم الحديث",
+              "created_at": "2018-09-04T13:12:18.352+03:00",
+              "updated_at": "2018-12-16T17:06:39.674+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8275,
+              "name": "ثمرة علم الحديث",
+              "created_at": "2018-09-04T13:12:18.404+03:00",
+              "updated_at": "2018-12-16T17:06:39.687+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8276,
+              "name": "مراحل التصنيف في علم الحديث",
+              "created_at": "2018-09-04T13:12:18.446+03:00",
+              "updated_at": "2018-12-16T17:06:39.755+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8280,
+              "name": "أقسام علم الحديث",
+              "created_at": "2018-09-04T13:12:18.585+03:00",
+              "updated_at": "2018-12-16T17:06:39.802+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8283,
+              "name": "أسماء علم الحديث",
+              "created_at": "2018-09-04T13:12:18.671+03:00",
+              "updated_at": "2018-12-16T17:06:39.873+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 5,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8288,
+              "name": "المصنفات في علم الحديث",
+              "created_at": "2018-09-04T13:12:18.817+03:00",
+              "updated_at": "2018-12-16T17:06:39.874+03:00",
+              "ancestry": "8269/8270",
+              "topic_references_count": 0,
+              "position": 6,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8289,
+          "name": "أقسام الحديث",
+          "created_at": "2018-09-04T13:19:22.799+03:00",
+          "updated_at": "2018-12-16T17:06:46.720+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 1,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8290,
+              "name": "مدخل",
+              "created_at": "2018-09-04T13:19:22.834+03:00",
+              "updated_at": "2018-12-16T17:06:40.063+03:00",
+              "ancestry": "8269/8289",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8300,
+              "name": "أقسام الحديث باعتبار تعدد الأسانيد",
+              "created_at": "2018-09-04T13:19:23.187+03:00",
+              "updated_at": "2018-12-16T17:06:40.953+03:00",
+              "ancestry": "8269/8289",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8354,
+              "name": "أقسام الحديث باعتبار القبول والرد",
+              "created_at": "2018-09-04T13:19:25.180+03:00",
+              "updated_at": "2018-12-16T17:06:46.252+03:00",
+              "ancestry": "8269/8289",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8621,
+              "name": "أقسام الحديث باعتبار من أسند إليه",
+              "created_at": "2018-09-04T13:19:34.296+03:00",
+              "updated_at": "2018-12-16T17:06:46.721+03:00",
+              "ancestry": "8269/8289",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8652,
+          "name": "مباحث الإسناد",
+          "created_at": "2018-09-04T13:19:46.877+03:00",
+          "updated_at": "2018-12-16T17:06:47.592+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 2,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8653,
+              "name": "مدخل",
+              "created_at": "2018-09-04T13:19:46.901+03:00",
+              "updated_at": "2018-12-16T17:06:46.823+03:00",
+              "ancestry": "8269/8652",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8660,
+              "name": "أنواع الإسناد",
+              "created_at": "2018-09-04T13:19:47.129+03:00",
+              "updated_at": "2018-12-16T17:06:47.594+03:00",
+              "ancestry": "8269/8652",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8712,
+          "name": "مباحث المتن",
+          "created_at": "2018-09-04T13:20:10.884+03:00",
+          "updated_at": "2018-12-16T17:06:48.134+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 3,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8713,
+              "name": "تعريف المتن",
+              "created_at": "2018-09-04T13:20:10.909+03:00",
+              "updated_at": "2018-12-16T17:06:47.639+03:00",
+              "ancestry": "8269/8712",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8716,
+              "name": "مختلف الحديث",
+              "created_at": "2018-09-04T13:20:11.003+03:00",
+              "updated_at": "2018-12-16T17:06:47.758+03:00",
+              "ancestry": "8269/8712",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8725,
+              "name": "ناسخ الحديث ومنسوخه",
+              "created_at": "2018-09-04T13:20:11.268+03:00",
+              "updated_at": "2018-12-16T17:06:47.901+03:00",
+              "ancestry": "8269/8712",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8735,
+              "name": "غريب الحديث",
+              "created_at": "2018-09-04T13:20:11.591+03:00",
+              "updated_at": "2018-12-16T17:06:48.034+03:00",
+              "ancestry": "8269/8712",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8745,
+              "name": "سبب ورود الحديث",
+              "created_at": "2018-09-04T13:20:11.875+03:00",
+              "updated_at": "2018-12-16T17:06:48.135+03:00",
+              "ancestry": "8269/8712",
+              "topic_references_count": 0,
+              "position": 4,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8753,
+          "name": "مباحث الرواة",
+          "created_at": "2018-09-04T13:20:18.157+03:00",
+          "updated_at": "2018-12-16T17:06:51.848+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 4,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8754,
+              "name": "أنواع تمييز الرواة",
+              "created_at": "2018-09-04T13:20:18.184+03:00",
+              "updated_at": "2018-12-16T17:06:50.232+03:00",
+              "ancestry": "8269/8753",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8903,
+              "name": "أركان قبول الراوي",
+              "created_at": "2018-09-04T13:20:23.188+03:00",
+              "updated_at": "2018-12-16T17:06:51.262+03:00",
+              "ancestry": "8269/8753",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 8955,
+              "name": "الجرح والتعديل",
+              "created_at": "2018-09-04T13:20:24.904+03:00",
+              "updated_at": "2018-12-16T17:06:51.849+03:00",
+              "ancestry": "8269/8753",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 8976,
+          "name": "رواية الحديث وسماعه وآدابه",
+          "created_at": "2018-09-04T13:20:33.724+03:00",
+          "updated_at": "2018-12-16T17:06:54.536+03:00",
+          "ancestry": "8269",
+          "topic_references_count": 0,
+          "position": 5,
+          "depth": 1,
+          "children": [
+            {
+              "id": 8977,
+              "name": "سماع الحديث وتحمله",
+              "created_at": "2018-09-04T13:20:33.749+03:00",
+              "updated_at": "2018-12-16T17:06:53.520+03:00",
+              "ancestry": "8269/8976",
+              "topic_references_count": 0,
+              "position": 0,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 9056,
+              "name": "كتابة الحديث",
+              "created_at": "2018-09-04T13:20:36.346+03:00",
+              "updated_at": "2018-12-16T17:06:53.946+03:00",
+              "ancestry": "8269/8976",
+              "topic_references_count": 0,
+              "position": 1,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 9082,
+              "name": "رواية الحديث",
+              "created_at": "2018-09-04T13:20:37.188+03:00",
+              "updated_at": "2018-12-16T17:06:54.185+03:00",
+              "ancestry": "8269/8976",
+              "topic_references_count": 0,
+              "position": 2,
+              "depth": 2,
+              "children": []
+            },
+            {
+              "id": 9099,
+              "name": "آداب المحدث وطالب الحديث",
+              "created_at": "2018-09-04T13:20:37.747+03:00",
+              "updated_at": "2018-12-16T17:06:54.537+03:00",
+              "ancestry": "8269/8976",
+              "topic_references_count": 0,
+              "position": 3,
+              "depth": 2,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
