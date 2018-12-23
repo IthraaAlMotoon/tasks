@@ -1,13 +1,5 @@
-# Requirements and Output
-
-# Features
-
-# Conditions
-
-# What we are looking for
-
-# Questions & Delivery
-
-# Checklist
-
-# Note
+# Requirements
+- An rtl direction page with two columns (Topics categories tree, category topics list)
+  - the right column will list Topics Categories tree with expanding and collapse ability, you can use api https://raw.githubusercontent.com/IthraaAlMotoon/tasks/master/Frontend%20Developer%20assets/topics-categories.json
+  - the left column will list the Topics for active category, you can use the api https://raw.githubusercontent.com/IthraaAlMotoon/tasks/master/Frontend%20Developer%20assets/category-topics.json
+   
